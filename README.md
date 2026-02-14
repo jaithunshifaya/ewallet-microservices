@@ -61,13 +61,13 @@ Tables:
 
 3. Run services in this order:
 
->> Wallet Service
+- Wallet Service
 
->> Merchant Service
+- Merchant Service
 
->> Notification Service
+- Notification Service
 
->> Payment Service
+- Payment Service
 
 4. Access Swagger UI:
 
@@ -79,18 +79,21 @@ http://localhost:8082/swagger-ui/index.html
 
 http://localhost:8083/swagger-ui/index.html
 
+---
+
 ## 📌 Key Features
 
->> Distributed microservices architecture
+- Distributed microservices architecture
 
->> Transactional consistency using @Transactional
+- Transactional consistency using @Transactional
 
->> Inter-service communication using Feign Client
+- Inter-service communication using Feign Client
 
->> Centralized transaction ledger
+- Centralized transaction ledger
 
->> SLF4J logging for observability
+- SLF4J logging for observability
 
+---
 
 ## 📬 Sample API Request
 
